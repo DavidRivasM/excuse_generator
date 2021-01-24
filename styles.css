@@ -1,0 +1,14 @@
+body{
+	font-family: 'Hachi Maru Pop', cursive;
+	background-color: gold;
+}
+.wrap {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+	width: 100%;
+}
+
+#theexcuse{text-align: center; }
